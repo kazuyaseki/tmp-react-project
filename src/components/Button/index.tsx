@@ -1,4 +1,4 @@
-import styles from "./Button.module.css";
+import styles from "./Button.module.scss";
 
 type Props = {
   onClick: () => void;
